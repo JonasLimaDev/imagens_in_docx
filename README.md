@@ -16,7 +16,9 @@ Adiciona imagens em um arquivo DOCX
   
 - Legenda
   - quando ativa legenda será o nome da pasta final onde as fotos estão.
- 
+
+## Downloads
+- [LINUX](https://github.com/JonasLimaDev/imagens_in_docx/releases/download/Linux-Dist/dist.zip)
 
 ### Informações Adicionais de Funcionamento
 
