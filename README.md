@@ -1,4 +1,4 @@
-# Divisor de PDF's
+# Adicionar Imagens em Documento
 
 Adiciona imagens em um arquivo DOCX
 
