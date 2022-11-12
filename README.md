@@ -19,7 +19,7 @@ Adiciona imagens em um arquivo DOCX
 
 ## Downloads
 - [LINUX](https://github.com/JonasLimaDev/imagens_in_docx/releases/download/Linux-Dist/dist.zip)
-- [WINDOWS](https://github.com/JonasLimaDev/imagens_in_docx/releases/download/Windows-Dist/imagens.in.DOCX.exe)
+- [WINDOWS](https://github.com/JonasLimaDev/imagens_in_docx/releases/download/Windows-Dist/image_in_docx.exe)
 
 ### Informações Adicionais de Funcionamento
 
