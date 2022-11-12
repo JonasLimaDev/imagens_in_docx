@@ -26,3 +26,8 @@ Adiciona imagens em um arquivo DOCX
 - imagens serão adicionadas em formato de tabela.
 - tenta ajustar a quantidade de imagens conforme o tamanho.
 - sempre irá sobrescrever o arquivo final.
+
+### Ajuda
+Se gostou deste trabalho e foi útil de alguma forma, considere fazer uma doação:
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=J3J4RWXJCLVSA)
