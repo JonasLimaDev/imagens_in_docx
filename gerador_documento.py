@@ -1,6 +1,12 @@
 import docx
 from docx.shared import Inches, Cm
 from docx.enum.text import WD_ALIGN_PARAGRAPH
+import platform
+
+if platform.system() == 'Windows':
+    barra ="\\"
+else:
+    barra = "/"
 
 
 def ajustar_margin(documento,margin=1.25):
@@ -18,8 +24,9 @@ def inserir_imagens(arquivos, config):
 
     ##-----------Tratamento de pasta e arquivos---------##
     local_arquivo = str(arquivos[0])
-    arquivo_imagem = local_arquivo.split('/')[-1]
-    nome_arquivo_saida = local_arquivo.split('/')[-2]
+    print(local_arquivo.split(barra))
+    arquivo_imagem = local_arquivo.split(barra)[-1]
+    nome_arquivo_saida = local_arquivo.split(barra)[-2]
     local_imagens = local_arquivo.replace(arquivo_imagem,"")
 
     ##_-------------------------------------------------##
